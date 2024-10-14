@@ -1,0 +1,76 @@
+
+[
+  {
+    "name": "Neon Vibes",
+    "image":{
+      "image_url":"images/neon.jpeg"
+    },
+    "base_color_name": "Electric Blue",
+    "base_color": "#00FFFF",
+    "accent_color_name": "Hot Pink",
+    "accent_color": "#FF69B4",
+    "secondary_color_name": "Bright Yellow",
+    "secondary_color": "#FFFF00"
+  },
+  {
+    "name": "Ocean Waves",
+    "image":{
+      "image_url":"images/ocean.jpg"
+    },
+    "base_color_name": "Deep Sea Blue",
+    "base_color": "#1E90FF",
+    "accent_color_name": "Aqua",
+    "accent_color": "#00CED1",
+    "secondary_color_name": "Coral",
+    "secondary_color": "#FF7F50"
+  },
+  {
+    "name": "Fire and Ice",
+    "image":{
+      "image_url":"images/fboywgirl.jpeg"
+    },
+    "base_color_name": "Fiery Red",
+    "base_color": "#FF4500",
+    "accent_color_name": "Icy Blue",
+    "accent_color": "#00BFFF",
+    "secondary_color_name": "White",
+    "secondary_color": "#FFFFFF"
+  },
+  {
+    "name": "Pastel Dreams",
+    "image":{
+      "image_url":"images/pastel.jpg"
+    },
+    "base_color_name": "Soft Lavender",
+    "base_color": "#E6E6FA",
+    "accent_color_name": "Mint Green",
+    "accent_color": "#98FB98",
+    "secondary_color_name": "Peach",
+    "secondary_color": "#FFDAB9"
+  },
+  {
+    "name": "Earthy Tones",
+    "image":{
+      "image_url":"images/dirt.jpg"
+    },
+    "base_color_name": "Brown",
+    "base_color": "#8E735B",
+    "accent_color_name": "Tan",
+    "accent_color": "#C5BBA0",
+    "secondary_color_name": "Dark Green",
+    "secondary_color": "#3A3B2A"
+  },
+  {
+    "name": "Forest Greens",
+    "image":{
+      "image_url":"images/forest.jpg"
+    },
+    "base_color_name": "Light Green",
+    "base_color": "#4B9E6A",
+    "accent_color_name": "Medium Green",
+    "accent_color": "#2A5D4D",
+    "secondary_color_name": "Dark Green",
+    "secondary_color": "#1D3B3D"
+  }
+
+]
